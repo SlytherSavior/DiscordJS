@@ -96,7 +96,7 @@ module.exports = {
         await interaction.reply('Pong!');
     },
 };
-
+```
 ## 🐞 Known Issues
 
 - No known issues at the moment. 
