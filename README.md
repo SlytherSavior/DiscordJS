@@ -36,7 +36,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/discordjs-bot-boilerplate.git
+    git clone https://github.com/SlytherSavior/discordjs-bot-boilerplate.git
     cd discordjs-bot-boilerplate
     ```
 
@@ -96,3 +96,22 @@ module.exports = {
         await interaction.reply('Pong!');
     },
 };
+
+## 🐞 Known Issues
+
+- No known issues at the moment. 
+
+## 📫 Contact
+
+For any questions or suggestions, feel free to reach out:
+
+- **📧 Email**: shrijan5414@gmail.com
+- **🔗 LinkedIn**: [linkedin.com/in/slyther](https://linkedin.com/in/slyther)
+- **🐦 Twitter**: [twitter.com/SlytherShrijan](https://x.com/SlytherShrijan)
+- **🌐 Website**: [shrijanpoudel.com.np](https://www.shrijanpoudel.com.np)
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
