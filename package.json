@@ -1,0 +1,30 @@
+{
+  "name": "test-bot",
+  "version": "1.0.0",
+  "description": "this is the package for my dicord bot yet unsure about what to do about it 5/27/24",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "test-bot repo"
+  },
+  "author": "",
+  "license": "MIT",
+  "keywords": [],
+  "dependencies": {
+    "@discordjs/builders": "^1.8.1",
+    "@discordjs/rest": "^2.3.0",
+    "discord.js": "^14.15.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "node-fetch": "^3.3.2",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "eslint": "^9.3.0"
+  }
+}
